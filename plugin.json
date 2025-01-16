@@ -2,7 +2,7 @@
 {
   "name": "HideActivityPlugin",
   "description": "A Vencord plugin that hides the activity section above the member list.",
-  "author": "YourName",
+  "author": "AbdenouR",
   "version": "1.0.0",
   "license": "MIT"
 }
